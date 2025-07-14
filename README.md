@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Flip the coin} | devChallenges</h1>
+<h1 align="center">Flip the coin | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://lichiguy.github.io/flip-the-coin/}">
+    <a href="https://lichiguy.github.io/flip-the-coin/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/lichiguy/flip-the-coin}">
+    <a href="https://github.com/lichiguy/flip-the-coin">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
+<!-- OVERVIEW 
 
 ## Overview
 
@@ -50,13 +50,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### What I learned
 
 <!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
-
-### Useful resources
-
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+How to give styles usign a css sheet, and how to manipulate the DOM elements usinh javascript
 
 ### Built with
 
@@ -70,14 +64,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+The button simulates a coin toss that results in a random result, updating the coin and ite text.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@lichiguy](https://github.com/lichiguy)
